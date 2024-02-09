@@ -8,12 +8,12 @@ list_of_files=[
     ".github/workflows/ci.yaml",
     "src/__init__.py",
     f"src/{package_name}/__init__.py",
-    f"src/{package_name}/mongo_crud.py,"
+    f"src/{package_name}/mongo_crud.py",
     "tests/__init__.py",
     "tests/unit/__init__.py",
     "tests/unit/unit.py",
     "tests/integration/__init__.py",
-    "tests/integration/integrate.py"
+    "tests/integration/integrate.py",
     "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
