@@ -4,7 +4,9 @@ dnspython
 pandas
 numpy
 ensure
-
+pip==24.0
+wheel==0.42.0
+setuptools==69.0.3
 
 # dev requirements -
 
