@@ -38,7 +38,7 @@ setup(
     },
     package_dir={"": "src"},
     packages=find_packages(where="src"),
-    install_requires=get_requirements("neurolab-mongodb-python/requirements_dev.txt")
+    install_requires=get_requirements("./requirements_dev.txt")
     )
 
 
